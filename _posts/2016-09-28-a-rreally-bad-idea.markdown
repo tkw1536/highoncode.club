@@ -46,7 +46,7 @@ This is something which should never be done because of a lot of unexpected side
 
 Looking at the documentation of the load function now, there is a way to namespace this, but it is non-obvious why one can not just assign it to a namespace by storing the output of the load call. It is also very difficult to just load a single variable.
 
-It seems that this the behavior of most of Rs code base – it seems more of a philosophy. Everything assumes the global namespace by default, everything else needs to be given by separate arguments. Of course none of this is taught in tutorials or classes – they just leave you to deal with the shitty defaults.
+It seems that this is the behavior of most of Rs code base – it seems more of a philosophy. Everything assumes the global namespace by default, everything else needs to be given by separate arguments. Of course none of this is taught in tutorials or classes – they just leave you to deal with the shitty defaults.
 
 In conclusion, no the title of this post is not a typo – R is just a rreally bad idea when trying to structurally write code.
 
