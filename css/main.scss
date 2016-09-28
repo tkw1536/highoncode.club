@@ -37,3 +37,13 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// Make the post content jusfified by default
+.post-content {
+  text-align: justify;
+}
+
+// Code is aligned to the left
+pre.highlight {
+  text-align: left; 
+}
