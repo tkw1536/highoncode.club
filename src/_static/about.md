@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 Hello, World!
 
 We are two students of Computer Science at a certain North German (Yay! for the weather… Nah, not really 😛 ) [university](https://jacobs-university.de/). We're Full Stack Developers and like getting our hands dirty in new technologies ([magpie](https://blog.codinghorror.com/the-magpie-developer/)? maybe...). Within the realms of Computer Science, we are interested in modern information architecture technologies, database systems, web development, cloud services, robotics, human computer interaction, machine learning, and ontologies.

@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  "A Rreally bad idea"
-date:   2016-09-28 12:00:00 +0200
+date:   "2016-09-28"
 author: tkw01536
 ---
 

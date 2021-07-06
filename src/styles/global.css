@@ -1,0 +1,30 @@
+/* contains global style information */
+nav {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+header h1 {
+    font-size: 42px;
+}
+
+header span:not(:first-of-type)::before, nav::before {
+    content: " ⋅ "
+}
+header span {
+    font-size: 16px;
+    color: gray;
+}
+
+.posts li span {
+    font-size: small;
+    color: gray;
+}
+
+.posts li span:first-of-type {
+    margin-left: 10px;
+}
+
+.posts li span:not(:first-of-type)::before {
+    content: " ⋅ "
+}
